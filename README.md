@@ -1,7 +1,7 @@
 # MLP_2_layer
 
 Construct 2-layer perceptron with MNIST data set from Kaggle.
-
+(https://www.kaggle.com/c/digit-recognizer/data)
 
 Use ReLU as activation function, softmax to classify, cross entroy as cost function
 
